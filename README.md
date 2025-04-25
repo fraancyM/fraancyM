@@ -8,6 +8,5 @@ I'm a Software Engineer currently working in the Aerospace and Defence Division 
 📚 Always learning, always building
 
 ## 🔗 Let's connect
-- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/maria-francesca-m-43a2b2128))
+- 💼 [LinkedIn]([[https://linkedin.com/in/your-profile]])
 - 📫 [Email](francymerangolo@libero.it)
-
