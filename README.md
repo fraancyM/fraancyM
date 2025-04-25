@@ -8,5 +8,5 @@ I'm a Software Engineer currently working in the Aerospace and Defence Division 
 📚 Always learning, always building
 
 ## 🔗 Let's connect
-- 💼 [LinkedIn]([[https://linkedin.com/in/your-profile]])
+- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 📫 [Email](francymerangolo@libero.it)
