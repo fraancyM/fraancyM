@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi there! I'm Francesca
 
-<!--
-**fraancyM/fraancyM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Software Engineer currently working in the Aerospace and Defence Division at **Alten**, with a strong passion for embedded systems, model-based development, and functional safety in critical environments.
 
-Here are some ideas to get you started:
+🚀 Currently working on control software for automotive and aerospace applications  
+🛠️ Technologies: MATLAB, Simulink, Stateflow, C/C++, Git  
+🎯 Interests: Embedded systems, real-time control, software architecture, functional safety (ISO 26262 / DO-178C)  
+📚 Always learning, always building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Let's connect
+- 💼 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/maria-francesca-m-43a2b2128))
+- 📫 [Email](francymerangolo@libero.it)
+
