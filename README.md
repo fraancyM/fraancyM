@@ -19,9 +19,9 @@ I'm a Software Engineer currently working in the Aerospace and Defence Division 
 ### 🏆 GitHub Trophies  
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fraancyM&theme=radical)
 
-## 🔥 Daily Contributions
+### 🔥 Daily Contributions
 [![GitHub Streak](https://streak-stats.demolab.com?user=fraancyM&theme=tokyonight&hide_border=false)](https://git.io/streak-stats)
 
-## 🔗 Let's connect
+### 🔗 Let's connect
 - 💼 [LinkedIn](https://linkedin.com/in/your-profile)
 - 📫 [Email](francymerangolo@libero.it)
