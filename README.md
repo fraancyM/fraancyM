@@ -20,5 +20,5 @@ I'm a Software Engineer currently working in the Aerospace and Defence Division 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=fraancyM&theme=radical)
 
 ### 🔗 Let's connect
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 📫 [Email](francymerangolo@libero.it)
+- 💼 [LinkedIn](https://linkedin.com/in/fraancyM)
+- 📫 [Email](mailto:francymerangolo@libero.it)
