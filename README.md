@@ -13,7 +13,7 @@ I'm a Software Engineer currently working in the Aerospace and Defence Division 
 ### 📊 GitHub Stats & 🚀 Top Languages  
 <div style="display: flex;">
   <img src="https://github-readme-stats.vercel.app/api?username=fraancyM&show_icons=true&theme=radical" alt="GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraancyM&layout=compact&theme=radical" alt="Top Languages" width="37%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraancyM&layout=compact&theme=radical&langs_count=6&count_private=true" alt="Top Languages" width="37%" />
 </div>
 
 ### 🏆 GitHub Trophies  
